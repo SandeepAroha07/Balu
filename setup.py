@@ -3,6 +3,6 @@ import time
 import os
 
 setup(name='o9codepackage',
-      packages=['o9codepackagefolder'],
+      packages=['o9dummyfolder'],
       include_package_data=True
       )
