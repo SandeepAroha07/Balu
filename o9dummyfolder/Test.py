@@ -4,7 +4,7 @@ class Test:
         self.ds = []
 
     def get(self, string_name):
-        fmt = "test name instance [{}] is getting you {} , In Code Lib".format(self.name, string_name)
+        fmt = "test name instance [{}] is getting you {} , Code lib 2 testing ".format(self.name, string_name)
         return fmt
 
     def add(self, string_name):
