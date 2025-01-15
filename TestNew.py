@@ -1,4 +1,4 @@
-class Test:
+class TestNew:
     def __init__(self, name):
         self.name = name
         self.ds = []
